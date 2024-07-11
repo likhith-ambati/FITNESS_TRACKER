@@ -11,10 +11,10 @@
 
 ## Team members:
 
-1. k.v.chaitanya
-2. sai likith
-3. pradeep reddy
-4. karthikeya
+1. K.V.Chaitanya
+2. Sai Likhith
+3. Pradeep Reddy
+4. Karthikeya
 
 ## Project Details:
 MyFitnessPal is a smartphone app and website that tracks diet and exercise. This is a MERN full stack collaborative project which is a clone of the [myFitnessPal.com](https://www.myfitnesspal.com/) website.
