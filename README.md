@@ -6,20 +6,15 @@
 - CSS
 - JavaScript
 - React (18.2.0)
-- Redux (4.2.0)
-- Redux Thunks (4.2.1)
-- Node.js
 - Express.js
 - MongoDB
-- Chakra UI (2.2.4)
 
 ## Team members:
 
-1. Rajashree Chakraborty
-2. Manish Tiwari
-3. Md. Naushad Ahamed
-4. Sunil sahu
-5. Shahrukh
+1. k.v.chaitanya
+2. sai likith
+3. pradeep reddy
+4. karthikeya
 
 ## Project Details:
 MyFitnessPal is a smartphone app and website that tracks diet and exercise. This is a MERN full stack collaborative project which is a clone of the [myFitnessPal.com](https://www.myfitnesspal.com/) website.
