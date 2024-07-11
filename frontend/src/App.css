@@ -1,7 +1,9 @@
+/* App Container */
 .App {
   text-align: center;
 }
 
+/* App Logo */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -13,21 +15,24 @@
   }
 }
 
+/* App Header */
 .App-header {
-  background-color: #282c34;
+  background-color: #3c3f41; /* Changed to a darker gray for a more modern look */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #e0e0e0; /* Changed to a lighter gray for better contrast */
 }
 
+/* App Link */
 .App-link {
-  color: #61dafb;
+  color: #ff6f61; /* Changed to a vibrant coral color for a pop of color */
 }
 
+/* Keyframes for Logo Spin Animation */
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
