@@ -14,7 +14,7 @@ app.use(cors({origin:"http://localhost:3000", methods:["POST", "GET", "PUT", "DE
 import mongoose from "mongoose"
 mongoose.Promise = global.Promise;
 const options = {dbName: "CSE330"}
-mongoose.connect('mongodb+srv://yuehengzhong:admin@cluster0.6cxu9tm.mongodb.net/?retryWrites=true&w=majority', options);
+mongoose.connect('mongodb+srv://pradeep18vk:<pradeep143>@cluster0.sktagrx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', options);
 mongoose.connection.on('open', function (ref) {
     console.log('Connected to mongo server.');
     
